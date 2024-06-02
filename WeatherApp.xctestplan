@@ -1,0 +1,27 @@
+{
+  "configurations" : [
+    {
+      "id" : "4CA1FC2E-7BB3-4D58-8CC3-0BBA60382461",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "locationScenario" : {
+      "identifier" : "Mumbai, India",
+      "referenceType" : "built-in"
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:WeatherApp.xcodeproj",
+      "identifier" : "0F2A97422BE0C1C500AFD25C",
+      "name" : "WeatherApp"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
