@@ -53,3 +53,8 @@ For any inquiries or further discussion about this project or my skills as an iO
 [📧 Mail](mailto:ashrafhatia@gmail.com ) : ashrafhatia@gmail.com 
 
 ## 🎥 App Recording
+
+
+https://github.com/AshrafHatia/swift-weather-app/assets/65664955/dd25c29b-0103-4616-b51f-c513aa4e3ebc
+
+
